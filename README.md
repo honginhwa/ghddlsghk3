@@ -6,3 +6,5 @@
 ![alt text](https://github.com/honginhwa/ghddlsghk3/blob/master/7%EB%B2%88.PNG?raw=true)
 ![alt text](https://github.com/honginhwa/ghddlsghk3/blob/master/8%EB%B2%88.PNG?raw=true)
 ![alt text](https://github.com/honginhwa/ghddlsghk3/blob/master/9%EB%B2%88.PNG?raw=true)
+![alt text](https://github.com/honginhwa/ghddlsghk3/blob/master/%EA%B1%B0%EB%A6%AC%20%EC%9D%B8%EC%8B%9D.png?raw=true)
+![alt text](https://github.com/honginhwa/ghddlsghk3/blob/master/%EC%8B%A0%ED%98%B8%EB%93%B1%20%EC%9D%B8%EC%8B%9D.PNG?raw=true)
