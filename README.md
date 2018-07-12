@@ -1,15 +1,10 @@
-echo "# gagasg" >> README.md
+mkdir ~/Picture
+cd ~/Picture
 git init
-git add README.md 
-git add 1번.PNG
-git add 2번.PNG
-git add 3번.PNG
-git add 5번.PNG
-git add 6번.PNG
-git add 7번.PNG
-git add 8번.PNG
-git add 9번.PNG
-
-git commit -m "first commit"
-git remote add origin https://github.com/honginhwa/gagasg.git
-git push -u origin master
+touch Readme.txt
+git status
+git add Readme.txt
+git commit -m "Add Readme.txt"
+git remote add origin https://github.com/honginhwa/Picture.git
+git remote -v
+git push
